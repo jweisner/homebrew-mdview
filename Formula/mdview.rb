@@ -3,8 +3,8 @@ class Mdview < Formula
 
   desc "GitHub-style Markdown previewer with auto-reload"
   homepage "https://gitlab.com/jweisner/mdview"
-  url "https://gitlab.com/jweisner/mdview/-/releases/v0.1.0/downloads/mdview-v0.1.0.tar.gz"
-  sha256 "450c147b856373cd5d5a485ef9ad5f0806f672936c3b5952a604a91189364710"
+  url "https://gitlab.com/jweisner/mdview/-/releases/v0.1.1/downloads/mdview-v0.1.1.tar.gz"
+  sha256 "9bd27029380ed37b498931592ded21d35e024f27eb9b36c99fc92a4a39c57e0f"
   license "MIT"
 
   depends_on "python@3.13"
